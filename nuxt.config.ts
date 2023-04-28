@@ -1,4 +1,5 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// import
+import vuetify from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
 
 })
