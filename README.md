@@ -1,6 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Live Demo
+[https://go-nuxt-go.vercel.app](https://go-nuxt-go.vercel.app)
+
+# Documentation
+- [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
+- [Vuetify 3 documentation](https://vuetifyjs.com/en/getting-started/installation/)
 
 ## Setup
 
